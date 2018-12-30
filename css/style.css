@@ -30,7 +30,7 @@ p {
 }
 
 .sidenav-trigger {
-  color: #26a69a;
+  color: grey;
 
 }
 
@@ -89,6 +89,7 @@ p {
 
 .servizi {
   margin-top: 5%;
+  text-align: justify;
 }
 
 
@@ -112,7 +113,7 @@ p {
 
 .foto-profilo{
   display:block;
-  max-width: 200px;
+  max-width: 175px;
   margin: 0 auto 40px;
   border-radius:100%;
 }
