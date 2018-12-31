@@ -1,14 +1,15 @@
-
 body {
   font-family: 'Roboto Condensed', sans-serif;
 }
+
+
 nav .img-logo {
-  width: 125px;
+  width: 100px;
   height: 55px;
 }
 nav ul a,
 nav .brand-logo {
-  color: #af0c0c;
+  color: white;
   padding-left: 5%;
   font-family: 'Francois One', sans-serif;
   font-size: 1.4em;
@@ -30,7 +31,7 @@ p {
 }
 
 .sidenav-trigger {
-  color: grey;
+  color: white;
 
 }
 
@@ -173,9 +174,13 @@ p {
   
 footer.page-footer {
   margin: 0;
-  background-color: #343e3d;
+  background-color: #616161;
 }
 
+footer.img-logo {
+  height: 300px;
+  width: 200px;
+}
 
 
 .social-icon {
