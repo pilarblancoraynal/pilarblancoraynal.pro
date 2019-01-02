@@ -4,26 +4,26 @@ body {
 
 
 nav .img-logo {
-  width: 100px;
+  width: 125px;
   height: 55px;
+  padding-left: 20px;
 }
 nav ul a,
 nav .brand-logo {
-  color: white;
+  color: #b71c1c;
   padding-left: 5%;
   font-family: 'Francois One', sans-serif;
   font-size: 1.4em;
   text-align: center;
+  padding: 0 20px;
 }
 
 nav .brand-logo {
   font-family: 'Francois One', sans-serif;
-
-  
 }
 
 .nav-wrapper {
-  padding: 0 50px;
+  background-color: #616161 grey darken-2;
 }
 
 p {
@@ -31,7 +31,7 @@ p {
 }
 
 .sidenav-trigger {
-  color: white;
+  color: #b71c1c;
 
 }
 
